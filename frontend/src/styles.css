@@ -8,6 +8,6 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 	color: rgb(227, 94, 107);
 }
 
-v-middle{
+.v-middle{
 	vertical-align: middle;
 }
